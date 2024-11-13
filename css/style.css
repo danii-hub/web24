@@ -253,6 +253,7 @@ h1 {
 .estilo{
     text-decoration: solid;
     background-color: yellowgreen;
+    display: inline-block;
 }
 .customdes li{
     list-style-type: square;
@@ -412,4 +413,7 @@ audio{
 .btn-green {
     background-color: rgb(4, 44, 14);
     color: rgb(177, 245, 174);
+}
+.alinear{
+    align-content: center;
 }
