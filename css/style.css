@@ -414,6 +414,7 @@ audio{
     background-color: rgb(4, 44, 14);
     color: rgb(177, 245, 174);
 }
-.alinear{
-    align-content: center;
+.horario{
+    margin: 0 auto;
+    width: 80%;
 }
